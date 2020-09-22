@@ -12,10 +12,9 @@ A website Created by HTML5, about Brown bears
 
 ## Usage
 
-```HTML5
+
  [Go to this WebSite Adress](https://senayyakut.github.io/Brown-Bear/) <!-- Will display the website -->
 
-```
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
