@@ -13,7 +13,7 @@ A website Created by HTML5, about Brown bears
 ## Usage
 
 ```HTML5
- https://senayyakut.github.io/Brown-Bear/ <!-- Will display the website -->
+ [Go to this WebSite Adress](https://senayyakut.github.io/Brown-Bear/) <!-- Will display the website -->
 
 ```
 
